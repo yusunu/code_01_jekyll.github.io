@@ -1,12 +1,16 @@
 # code 2020
 
-# The largest heading (最大のヘッディング)
-## The second largest heading (2番目に大きなヘッディング)
-###### The smallest heading (最も小さいヘッディング)
 
-> Windows 10 WSL
-> WSL to Ubuntu
-> Visual Code on Windows
+- Windows 10 & WSL
+- Ubuntu 20.04 LTS(from Microsoft Store)
+- Visual Studio Code 1.47 for Windows
+
+Changing a remote's URL
+```sh
+sudo sed -i -e 's%http://.*.ubuntu.com%http://ftp.jaist.ac.jp/pub/Linux%g' /etc/apt/sources.list
+```
+
+
 > Ubuntu bash
 
 
@@ -16,6 +20,8 @@ git status
 git add
 git commit
 ```
+
+sudo apt install -y node npm
 
 
 このサイトは [GitHub Pages](https://pages.github.com/) を使って構築されています。
