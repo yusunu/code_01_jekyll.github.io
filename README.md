@@ -4,6 +4,12 @@
 ## The second largest heading (2番目に大きなヘッディング)
 ###### The smallest heading (最も小さいヘッディング)
 
+> Windows 10 WSL
+> WSL to Ubuntu
+> Visual Code on Windows
+> Ubuntu bash
+
+
 いくつかの基本的な Git コマンド:
 ```
 git status
