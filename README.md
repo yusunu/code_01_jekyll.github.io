@@ -1,12 +1,20 @@
 # code 2020
-> Env.
+> OS/IDE
 
 - Windows 10 & WSL
 - Ubuntu 20.04 LTS(from Microsoft Store)
 - Visual Studio Code 1.47 for Windows
-- npm 6.14.4 
-- node v10.19.0
 
+> 
+- [x] npm 6.14.4 
+- [x] node v10.19.0
+
+
+> dependencies
+- [x] express
+- [ ] mongodb
+
+> ## setting
 > Changing a remote's URL
 ```sh
 sudo sed -i -e 's%http://.*.ubuntu.com%http://ftp.jaist.ac.jp/pub/Linux%g' /etc/apt/sources.list
