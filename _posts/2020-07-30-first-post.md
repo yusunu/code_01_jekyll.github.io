@@ -1,6 +1,15 @@
-# yusunu.github.io
+---
+title:  "Github Pages 작성"
+excerpt: "yusunu.github.io"
 
-## Github Pages 작성
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2020-07-29T08:06:00-05:00
+---
+
+
 
 ### Repository 생성(Github)
 - Create a new repository
@@ -11,20 +20,21 @@
 ### Github page 초기파일 생성(Github)
 - Create new files
 
-index.html
-or
-index.MD
+index.html  
+or  
+index.MD  
 
-- 확인 
+### 확인 
 
-https://yusunu.github.io
+<https://yusunu.github.io>
 
 ### Repository 관리(Local)
 ```sh
 git clone https://github.com/yusunu/yusunu.github.io.git
 ```
 
-### install ruby + Jekyll  
+### Jekyll 適用(Local)
+#### install ruby + Jekyll 
 ```sh
 sudo apt install ruby-full build-essential zlib1g-dev
 #ユーザ単位
